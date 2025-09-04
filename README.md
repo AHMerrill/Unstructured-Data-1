@@ -1,4 +1,4 @@
-## Open this project in your browser
+## Links to code notebooks:
 
 | Notebook        | Colab |
 |-----------------|-------|
