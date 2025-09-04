@@ -1,5 +1,5 @@
 ## Notebooks  
-Open directly in Google Colab:
+Open directly in Google Colab (right-click to open in new tab):
 
 | Notebook        | Link |
 |-----------------|------|
