@@ -2,6 +2,7 @@
 
 | Notebook        | Colab |
 |-----------------|-------|
+| `Assignment_1.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AHMerrill/Unstructured-Data-1/blob/main/Assignment_1.ipynb) | 
 | `scraper_zm.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AHMerrill/Unstructured-Data-1/blob/main/scraper_zm.ipynb) | 
 | `vectorizer_lift_MDS_zm.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AHMerrill/Unstructured-Data-1/blob/main/vectorizer_lift_MDS_zm.ipynb) |
 | `zipf_zm.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AHMerrill/Unstructured-Data-1/blob/main/zipf_zm.ipynb) | 
@@ -23,4 +24,4 @@
 | **Task F: Top 5 attributes**   | Frequency table of top-5 car attributes; associations to brands                                                                  | vectorizer_lift_MDS_zm.ipynb              | Ethan        | 8 Sep     |              |            |
 | **Task G: Insights (F)**       | Client advice from attribute–brand associations                                                                                  |  vectorizer_lift_MDS_zm.ipynb             | Maru        | 8 Sep     |              |            |
 | **Task H: Aspirational brand** | Identify most aspirational brand + business implications                                                                         |  vectorizer_lift_MDS_zm.ipynb             | Nikhil & Kristen        | 8 Sep     |              |            |
-| **Final Integration**          | Combine all steps (A–H + scraper) into **one clean notebook** with results, frequency tables, lift table, MDS plot, and insights |               |         |      |              |            |
+| **Final Integration**          | Combine all steps (A–H + scraper) into **one clean notebook** with results, frequency tables, lift table, MDS plot, and insights |  Assignment_1.ipynb             | Grace        | 10 Sep     |              |            |
